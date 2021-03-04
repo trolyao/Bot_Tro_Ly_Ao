@@ -1,5 +1,5 @@
 Những tính năng mà Bot trợ lý ảo có thể hỗ trợ người dùng :
-	\n1. Chào hỏi.
+	1. Chào hỏi.
 	2. Hiển thị giờ.
 	3. Tìm kiếm trên Google.
 	4. Dự báo thời tiết.
